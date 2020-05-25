@@ -14,7 +14,7 @@
 -e YOURLS_PASS=... (yourls instance user password)
 ```
 ----
-##inifinty設定
+## inifinty設定
 環境變數
 ```
 WEB_NAME=...(網頁標題)
@@ -23,7 +23,7 @@ RECAPTCHA_SECERT_KEY_V2=...(google recaptcha v2版本的secert key)
 ```
 
 ----
-##sleeky設定
+## sleeky設定
 環境變數
 ```
 -e WEB_NAME=....(web titile) 
