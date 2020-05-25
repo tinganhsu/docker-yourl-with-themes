@@ -22,7 +22,7 @@ RECAPTCHA_SITE_KEY_V2=...(google recaptcha v2版本的site key)
 RECAPTCHA_SECERT_KEY_V2=...(google recaptcha v2版本的secert key)
 ```
 
-=====
+----
 ##sleeky設定
 環境變數
 ```
